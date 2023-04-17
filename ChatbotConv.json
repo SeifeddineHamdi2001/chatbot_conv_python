@@ -1,0 +1,2709 @@
+{"intents": [
+        {
+          "tag": "Q1CollinedeByrsa",
+          "patterns": ["Quelle est l'histoire de Colline de Byrsa tunis"],
+          "responses": ["La colline de Byrsa à Tunis est un site historique important qui a été occupé par les Phéniciens, les Carthaginois, les Romains, les Vandales, les Byzantins et les Arabes. Elle est connue pour être le site de la fondation de Carthage par la reine Didon au 9ème siècle avant JC. La colline abrite également des vestiges importants, notamment les ruines d'un temple dédié à Eshmoun, le dieu de la guérison, et un musée qui présente l'histoire de Carthage."],
+          "context": ["Colline_de_Byrsa"]
+        },
+        {
+          "tag": "Q2CollinedeByrsa",
+          "patterns": ["Qui a construit colline de byrsa et pourquoi"],
+          "responses": ["La colline de Byrsa à Tunis a été construite par les Phéniciens, une ancienne civilisation maritime qui a fondé Carthage sur cette colline au 9ème siècle avant JC. La ville de Carthage est devenue une importante puissance commerciale et militaire dans la région, et la colline de Byrsa est devenue le centre politique et religieux de la ville. Le site abrite des vestiges importants de la civilisation carthaginoise, tels que des temples, des nécropoles et des habitations."],
+          "context": ["Colline_de_Byrsa"]
+        },
+        {
+          "tag": "Q3CollinedeByrsa",
+          "patterns": ["Quand a été construit colline de byrsa ?"],
+          "responses": ["La colline de Byrsa à Tunis a été occupée et aménagée par les Phéniciens à partir du 9ème siècle avant JC, mais le site a été construit et reconstruit par différentes cultures au fil des siècles. Les ruines que l'on peut voir aujourd'hui datent principalement de l'époque carthaginoise, qui s'est étendue du 6ème siècle avant JC jusqu'à la conquête romaine en 146 avant JC."],
+          "context": ["Colline_de_Byrsa"]
+        },
+        {
+          "tag": "Q4CollinedeByrsa",
+          "patterns": ["Quel est le style architectural de colline de byrsa ?"],
+          "responses": ["Le style architectural de la colline de Byrsa varie en fonction des différentes périodes de son occupation historique. Les vestiges archéologiques sur la colline révèlent des traces de styles phénicien, punique, romain et byzantin."],
+          "context": ["Colline_de_Byrsa"]
+        },
+        {
+          "tag": "Q5CollinedeByrsa",
+          "patterns": ["Pouvez-vous nous parler d'événements significatifs qui ont eu lieu colline de byrsa ?"],
+          "responses": ["La colline de Byrsa a connu de nombreux événements historiques significatifs, notamment la fondation de la ville de Carthage par les Phéniciens vers le IXe siècle av. J.-C., la bataille de Carthage en 698 ap. J.-C., la prise de la ville par les Romains en 146 av. J.-C., et la destruction de Carthage par les Arabes en 698 ap. J.-C. La colline a également été le lieu de nombreux événements politiques et religieux au cours de l'histoire de la Tunisie."],
+          "context": ["Colline_de_Byrsa"]
+        },
+        {
+          "tag": "Q6CollinedeByrsa",
+          "patterns": ["Quelle est la signification de la colline de Byrsa dans l'histoire locale ou nationale ?"],
+          "responses": ["La colline de Byrsa a une grande signification dans l'histoire locale et nationale de la Tunisie. Elle est considérée comme le lieu fondateur de la ville de Carthage, qui a été l'une des grandes puissances de la Méditerranée antique. La colline a également été le théâtre de nombreuses batailles et événements historiques importants, et elle est devenue un symbole de l'identité tunisienne et de la résistance face aux forces étrangères. De nos jours, la colline de Byrsa est un site archéologique majeur et un lieu de mémoire important pour les Tunisiens."],
+          "context": ["Colline_de_Byrsa"]
+        },
+        {
+          "tag": "Q7CollinedeByrsa",
+          "patterns": ["La colline de byrsa a-t-il subi des restaurations ou des rénovations ?"],
+          "responses": ["Oui, la colline de Byrsa a subi plusieurs restaurations et rénovations au fil du temps, car elle est un site archéologique majeur et un lieu de mémoire important pour les Tunisiens. Parmi les projets les plus importants figurent la restauration de la basilique de Saint-Cyprien, la rénovation du musée de Carthage et la mise en place de mesures de conservation pour préserver les vestiges archéologiques de la colline."],
+          "context": ["Colline_de_Byrsa"]
+        },
+        {
+          "tag": "Q8CollinedeByrsa",
+          "patterns": ["Pouvez-vous nous parler du processus de restauration de La colline de byrsa ?"],
+          "responses": ["Le processus de restauration de la colline de Byrsa implique généralement la mise en place de mesures de conservation pour préserver les vestiges archéologiques de la colline, ainsi que des projets de restauration pour réhabiliter les structures historiques présentes sur le site. Les archéologues et les spécialistes travaillent généralement à nettoyer et à stabiliser les structures anciennes, en utilisant des techniques modernes pour préserver les éléments originaux autant que possible. Les projets de restauration peuvent également impliquer la rénovation de certains éléments, tels que les murs, les sols et les toits, afin de les rendre plus stables et sécurisés pour les visiteurs. Le but ultime de la restauration de la colline de Byrsa est de préserver son patrimoine culturel et historique pour les générations futures."],
+          "context": ["Colline_de_Byrsa"]
+        },
+        {
+          "tag": "Q9CollinedeByrsa",
+          "patterns": ["Comment La colline de byrsa a-t-il été préservé au fil des ans ?"],
+          "responses": ["La colline de Byrsa a été préservée au fil des ans grâce à des efforts continus de conservation et de restauration menés par les autorités tunisiennes et des organisations internationales spécialisées dans la préservation du patrimoine culturel. Des mesures de protection ont été mises en place pour empêcher les dommages causés par l'érosion naturelle, les intempéries et les activités humaines, et des programmes de restauration ont été entrepris pour préserver les vestiges archéologiques présents sur la colline."],
+          "context": ["Colline_de_Byrsa"]
+        },
+        {
+          "tag": "Q10CollinedeByrsa",
+          "patterns": ["Quels matériaux ont été utilisés dans la construction de la colline de byrsa ? "],
+          "responses": ["La colline de Byrsa a été construite à partir d'une variété de matériaux, notamment des blocs de pierre, de l'argile, du sable et du mortier. Les Phéniciens ont utilisé principalement des pierres pour construire leurs fortifications et leurs bâtiments publics, tandis que les Romains ont introduit l'utilisation de briques et de tuiles en terre cuite pour leurs constructions. Les vestiges archéologiques sur la colline de Byrsa témoignent de l'utilisation de ces différents matériaux au fil du temps."],
+          "context": ["Colline_de_Byrsa"]
+        },
+        {
+          "tag": "Q11CollinedeByrsa",
+          "patterns": ["Y a-t-il des faits ou des histoires intéressantes associés à la colline de byrsa ?"],
+          "responses": ["Oui, il y a de nombreuses histoires et faits intéressants associés à la colline de Byrsa. Par exemple, selon la légende, la colline a été fondée par la princesse Didon, la fondatrice mythique de Carthage, qui aurait acheté la terre à un chef local en échange d'un patch de peau de boeuf de la taille la plus grande possible. De plus, la colline a été le théâtre de nombreuses batailles historiques, dont la plus célèbre est la bataille de Carthage en 149 avant J.-C., au cours de laquelle les Romains ont détruit la ville et ont mis fin à l'empire carthaginois. Aujourd'hui, la colline de Byrsa est un site archéologique majeur et un lieu de mémoire important pour les Tunisiens."],
+          "context": ["Colline_de_Byrsa"]
+        },
+        {
+          "tag": "Q12CollinedeByrsa",
+          "patterns": ["Pouvez-vous nous parler de la vie et des temps des personnes qui ont vécu ou travaillé sur la colline de byrsa ?"],
+          "responses": ["La colline de Byrsa a été habitée depuis l'Antiquité par diverses cultures, notamment les Phéniciens, les Puniques et les Romains. Elle a été le centre politique et religieux de la ville de Carthage, et a vu la construction de temples et de sanctuaires. La colline a également été le théâtre de nombreuses batailles historiques, notamment la guerre punique et la bataille de Carthage. Aujourd'hui, la colline de Byrsa est un site archéologique majeur qui témoigne de la riche histoire et de la culture des civilisations qui ont habité la région."],
+          "context": ["Colline_de_Byrsa"]
+        },
+        {
+          "tag": "Q13CollinedeByrsa",
+          "patterns": ["Quel était la routine quotidienne des personnes qui ont vécu ou travaillé sur colline de byrsa ? "],
+          "responses": ["Il est difficile de décrire la routine quotidienne des personnes qui ont vécu ou travaillé sur la colline de Byrsa au fil des siècles, car elle a été habitée par différentes cultures et civilisations qui avaient des modes de vie différents. Cependant, on peut supposer que la vie quotidienne des habitants était influencée par les activités économiques et les croyances religieuses de leur époque. Les Phéniciens, par exemple, étaient connus pour leur commerce maritime et leur artisanat, tandis que les Romains ont introduit des thermes et des amphithéâtres dans la vie quotidienne de la ville. La vie sur la colline de Byrsa était également influencée par les événements historiques et les conflits militaires qui ont eu lieu dans la région."],
+          "context": ["Colline_de_Byrsa"]
+        },
+        {
+          "tag": "Q14CollinedeByrsa",
+          "patterns": ["Pouvez-vous nous montrer des artefacts ou des reliques de l'époque de colline de byrsa ?"],
+          "responses": ["je peux vous dire que la colline de Byrsa est un site archéologique majeur qui a révélé de nombreux artefacts et reliques de l'Antiquité. Les fouilles archéologiques ont permis de découvrir des vestiges de temples et de sanctuaires puniques, ainsi que des objets en céramique, en verre, en métal et en pierre, tels que des bijoux, des armes et des pièces de monnaie. Certains des artefacts les plus connus trouvés sur la colline de Byrsa comprennent les stèles de la déesse Tanit, qui étaient vénérées par les Carthaginois et les Puniques, ainsi que les mosaïques romaines qui ornaient les sols des maisons et des villas de l'époque romaine. Ces artefacts et reliques ont permis aux archéologues et aux historiens de mieux comprendre la vie et la culture des anciennes civilisations qui ont habité la région."],
+          "context": ["Colline_de_Byrsa"]
+        },
+        {
+          "tag": "Q15CollinedeByrsa",
+          "patterns": ["Quelle est la signification des artefacts ou des reliques que vous nous montrez ?"],
+          "responses": ["Les artefacts et reliques découverts sur la colline de Byrsa sont des témoins précieux de l'histoire et de la culture des anciennes civilisations qui ont habité la région. Ils offrent des informations sur les pratiques religieuses, les modes de vie, l'artisanat et les technologies de ces civilisations, ainsi que sur les échanges commerciaux et culturels entre différentes régions du monde antique. En étudiant ces artefacts, les archéologues et les historiens peuvent mieux comprendre les événements et les processus qui ont façonné la région au fil du temps, ainsi que l'impact de ces civilisations sur le développement de la culture et de la société moderne."],
+          "context": ["Colline_de_Byrsa"]
+        },
+        {
+          "tag": "Q16CollinedeByrsa",
+          "patterns": ["Pouvez-vous nous parler de personnes célèbres associées à colline de byrsa ?"],
+          "responses": ["je ne peux pas identifier de personnes célèbres spécifiquement associées à la colline de Byrsa. Toutefois, le site de la colline de Byrsa a une grande importance historique et culturelle dans la région de Carthage en Tunisie, et a été lié à de nombreuses personnalités et événements importants de l'Antiquité, tels que la civilisation punique et la guerre punique. "],
+          "context": ["Colline_de_Byrsa"]
+        },
+        {
+          "tag": "Q17CollinedeByrsa",
+          "patterns": ["Y a-t-il des légendes ou des mythes associés à colline de byrsa?"],
+          "responses": ["je ne peux pas confirmer l'existence de légendes ou de mythes spécifiquement associés à la colline de Byrsa. Toutefois, comme la colline de Byrsa a une longue histoire, il est possible que des légendes ou des mythes locaux aient été associés à ce site au fil du temps. Ces histoires peuvent être liées aux croyances et pratiques religieuses des anciennes civilisations qui ont habité la région, ou aux événements historiques qui ont eu lieu sur la colline."],
+          "context": ["Colline_de_Byrsa"]
+        },
+        {
+          "tag": "Q18CollinedeByrsa",
+          "patterns": ["Pouvez-vous expliquer la symbolique derrière l'architecture ou le design de colline de byrsa ? "],
+          "responses": ["La symbolique de l'architecture et du design de la colline de Byrsa n'est pas clairement définie, mais les éléments décoratifs complexes, les sculptures, les mosaïques et les fresques suggèrent que la colline était considérée comme un lieu de grande importance culturelle, religieuse et politique dans la région. Les matériaux locaux et les techniques de construction sophistiquées montrent également l'expertise technique et l'ingéniosité des anciennes civilisations qui ont habité la région."],
+          "context": ["Colline_de_Byrsa"]
+        },
+        {
+          "tag": "Q19CollinedeByrsa",
+          "patterns": ["Comment colline de byrsa a-t-il influencé la culture ou l'art de la région ?"],
+          "responses": ["La colline de Byrsa a eu une influence considérable sur la culture et l'art de la région, car elle était un centre important de l'activité culturelle, religieuse et politique. Les différentes civilisations qui ont occupé la colline ont laissé derrière elles des vestiges archéologiques qui ont inspiré les artistes et les artisans locaux pendant des siècles. De plus, les pratiques religieuses et les traditions culturelles qui ont été développées sur la colline ont également influencé les cultures et les arts locaux, en particulier dans les domaines de l'architecture, de la sculpture, de la céramique et de la musique."],
+          "context": ["Colline_de_Byrsa"]
+        },
+        {
+          "tag": "Q20CollinedeByrsa",
+          "patterns": ["Pouvez-vous nous montrer des documents ou des manuscrits originaux liés à colline de byrsa? "],
+          "responses": ["je n'ai pas la capacité de montrer des documents ou des manuscrits originaux. Cependant, il existe des musées et des institutions qui ont conservé des artefacts et des documents originaux liés à la colline de Byrsa, tels que des tablettes d'argile, des stèles, des papyrus et des manuscrits. Il est possible de les consulter en personne ou en ligne à travers des sites web d'institutions culturelles et archéologiques."],
+          "context": ["Colline_de_Byrsa"]
+        },
+        {
+          "tag": "Q21CollinedeByrsa",
+          "patterns": ["Quelle est la signification culturelle de colline de byrsa pour les habitants ?"],
+          "responses": ["La colline de Byrsa a une grande signification culturelle pour les habitants, car elle est considérée comme un lieu de mémoire et de fierté nationale. Elle représente l'histoire riche et complexe de la Tunisie, en tant que centre important de l'activité culturelle, religieuse et politique de différentes civilisations qui ont occupé la région au fil des siècles. La colline de Byrsa est également associée à des traditions culturelles et religieuses importantes, telles que le culte de la déesse Tanit et la pratique de la musique andalouse. Pour les habitants, la colline de Byrsa est un symbole de l'identité et de la culture tunisiennes, ainsi qu'un rappel des réalisations passées et des défis futurs à relever."],
+          "context": ["Colline_de_Byrsa"]
+        },
+        {
+          "tag": "Q22CollinedeByrsa",
+          "patterns": ["Comment colline de byrsa a-t-il été interprété ou représenté dans la littérature, l'art ou le cinéma ?"],
+          "responses": ["La colline de Byrsa a été représentée dans diverses œuvres d'art, de la littérature et du cinéma. Dans la littérature, elle a été décrite dans des romans historiques et des poèmes, tels que \"Salammbo\" de Gustave Flaubert, qui se déroule dans la Carthage ancienne. Dans l'art, elle a été représentée dans des peintures, des sculptures et des gravures depuis l'époque romaine jusqu'à nos jours. Dans le cinéma, elle a été utilisée comme décor dans des films historiques et des documentaires, tels que \"Carthage in Flames\" et \"The Rise and Fall of an Empire\". Elle a également été utilisée comme emblème dans la publicité et le design."],
+          "context": ["Colline_de_Byrsa"]
+        },
+        {
+          "tag": "Q23CollinedeByrsa",
+          "patterns": ["Pouvez-vous nous parler de la signification religieuse ou spirituelle de colline de byrsa ?"],
+          "responses": ["Il n'y a pas de signification religieuse ou spirituelle particulière associée à la colline de Byrsa. Cependant, en tant que site historique et culturel important, elle peut avoir une signification symbolique pour certaines communautés religieuses ou spirituelles de la région, en particulier pour les personnes qui valorisent l'histoire et la culture de la Tunisie et de l'Afrique du Nord."],
+          "context": ["Colline_de_Byrsa"]
+        },
+        {
+          "tag": "Q24CollinedeByrsa",
+          "patterns": ["Y a-t-il des caractéristiques ou des éléments uniques dans la conception ou l'architecture de colline de byrsa ?"],
+          "responses": ["Oui, la colline de Byrsa présente des caractéristiques architecturales uniques, notamment des murs en pierre, des escaliers en colimaçon, des colonnes et des chapiteaux romains, ainsi que des éléments de l'architecture punique tels que des portes monumentales et des stèles funéraires. La conception de la colline de Byrsa a également subi des influences de diverses cultures et époques, ce qui en fait un site archéologique remarquable pour l'étude de l'histoire et de l'architecture."],
+          "context": ["Colline_de_Byrsa"]
+        },
+        {
+          "tag": "Q25CollinedeByrsa",
+          "patterns": ["Pouvez-vous nous montrer des zones cachées ou secrètes de colline de byrsa ?"],
+          "responses": [" je n'ai pas la capacité de montrer des zones cachées ou secrètes de la colline de Byrsa, car cela pourrait compromettre la sécurité et l'intégrité du site archéologique. Il est important de respecter les protocoles et les réglementations en place pour préserver le patrimoine culturel et historique pour les générations futures."],
+          "context": ["Colline_de_Byrsa"]
+        },
+        {
+          "tag": "Q26CollinedeByrsa",
+          "patterns": ["Y a-t-il des défis ou des difficultés à maintenir colline de byrsa  ?"],
+          "responses": ["Oui, la préservation et la conservation de la colline de Byrsa sont des défis continus en raison de l'exposition aux éléments naturels, à la pollution, aux dommages causés par l'homme, au vieillissement et à d'autres facteurs. Il est également important de trouver un équilibre entre la conservation du site archéologique et la promotion du tourisme pour assurer une utilisation durable du site."],
+          "context": ["Colline_de_Byrsa"]
+        },
+        {
+          "tag": "Q27CollinedeByrsa",
+          "patterns": ["Pouvez-vous nous parler des défis de la gestion du tourisme sur colline de byrsa ?"],
+          "responses": ["La gestion du tourisme sur la colline de Byrsa peut être un défi en raison de la nécessité de préserver et protéger les vestiges archéologiques tout en permettant aux visiteurs de découvrir le site. Des mesures doivent être mises en place pour contrôler le nombre de visiteurs, éviter les dégradations, et fournir des informations précises sur le site. Il est également important de former les guides touristiques pour garantir une visite responsable et respectueuse de l'histoire et de la culture du site."],
+          "context": ["Colline_de_Byrsa"]
+        },
+        {
+          "tag": "Q28CollinedeByrsa",
+          "patterns": ["Comment le tourisme a-t-il affecté la préservation de colline de byrsa ?"],
+          "responses": ["Le tourisme a eu un impact à la fois positif et négatif sur la préservation de la colline de Byrsa. D'une part, il a permis de sensibiliser les visiteurs à l'importance historique et culturelle du site, et a contribué à sa restauration et à sa préservation. D'autre part, la fréquentation touristique a également entraîné une usure et une détérioration des structures et des artefacts, ainsi qu'une pression sur les ressources nécessaires à la gestion et à la conservation du site. Il est donc important de trouver un équilibre entre le tourisme et la préservation de la colline de Byrsa pour assurer sa durabilité à long terme."],
+          "context": ["Colline_de_Byrsa"]
+        },
+        {
+          "tag": "Q29CollinedeByrsa",
+          "patterns": ["Y a-t-il des aspects controversés ou contestés de l'histoire de colline de byrsa ?"],
+          "responses": ["Il n'y a pas de faits ou d'aspects controversés ou contestés connus de l'histoire de la colline de Byrsa. Cependant, comme pour toute histoire ancienne, il peut y avoir des lacunes dans la connaissance historique et des débats entre les chercheurs et les experts en ce qui concerne certains événements ou interprétations de preuves archéologiques."],
+          "context": ["Colline_de_Byrsa"]
+        },
+        {
+          "tag": "Q30CollinedeByrsa",
+          "patterns": ["Pouvez-vous nous parler de tout travail de recherche ou de fouilles en cours sur colline de byrsa ?"],
+          "responses": ["Je suis désolé, je n'ai pas accès aux développements plus récents. Il serait peut-être utile de consulter des sources d'actualités locales ou des sites web archéologiques pour obtenir des informations plus récentes."],
+          "context": ["Colline_de_Byrsa"]
+        },
+        {
+          "tag": "Q31CollinedeByrsa",
+          "patterns": ["Y a-t-il des découvertes ou des trouvailles significatives sur colline de byrsa ? "],
+          "responses": ["Oui, des découvertes significatives ont été faites sur la colline de Byrsa, notamment des vestiges de la ville punique et de la ville romaine, ainsi que des mosaïques, des sculptures et des poteries. L'une des découvertes les plus importantes est celle d'une nécropole punique avec des tombes qui remontent au 5ème siècle avant J.-C. Ces trouvailles ont permis de mieux comprendre l'histoire et la culture de la région à différentes époques."],
+          "context": ["Colline_de_Byrsa"]
+        },
+        {
+          "tag": "Q32CollinedeByrsa",
+          "patterns": ["Comment la technologie a-t-elle aidé à la préservation ou à l'interprétation de colline de byrsa ? "],
+          "responses": ["La technologie a joué un rôle important dans la préservation et l'interprétation de la colline de Byrsa. Les techniques de modélisation 3D, de numérisation laser et de réalité virtuelle ont permis de créer des reproductions précises de la colline, de ses structures et de ses artefacts. Les analyses scientifiques telles que la datation au carbone ont également fourni des informations précieuses sur l'histoire et la culture de la région."],
+          "context": ["Colline_de_Byrsa"]
+        },
+        {
+          "tag": "Q33CollinedeByrsa",
+          "patterns": ["Pouvez-vous nous parler de tout détail architectural ou de conception significatif de colline de byrsa ?"],
+          "responses": ["Un détail architectural significatif de la colline de Byrsa est la présence de nombreux systèmes de drainage sophistiqués, tels que des canaux et des citernes, qui ont permis de collecter et de stocker l'eau dans une région aride. Ces systèmes ont été construits avec des matériaux locaux tels que la pierre et l'argile, et ont contribué à la durabilité et à la longévité de la colline."],
+          "context": ["Colline_de_Byrsa"]
+        },
+        {
+          "tag": "34CollinedeByrsa",
+          "patterns": ["Y a-t-il des caractéristiques uniques ou inhabituelles de colline de byrsa qui le distinguent des autres de la région ?"],
+          "responses": ["La colline de Byrsa se distingue par sa position géographique, étant située sur une colline surplombant la ville de Carthage. De plus, son architecture a été influencée par différentes cultures et civilisations au fil du temps, créant un mélange unique de styles architecturaux. La présence de certains artefacts, tels que le sarcophage de Hannibal, est également un élément distinctif de la colline de Byrsa."],
+          "context": ["Colline_de_Byrsa"]
+        },
+        {
+          "tag": "Q35CollinedeByrsa",
+          "patterns": ["Comment la communauté locale a-t-elle été impliquée dans la préservation ou la promotion de colline de byrsa ?"],
+          "responses": ["La communauté locale a été impliquée dans la préservation et la promotion de la colline de Byrsa par le biais de diverses actions telles que la sensibilisation, l'organisation d'événements culturels et la participation à des projets de recherche et de fouilles archéologiques."],
+          "context": ["Colline_de_Byrsa"]
+        },
+        {
+          "tag": "Q36CollinedeByrsa",
+          "patterns": ["Quelle est la signification politique ou économique de colline de byrsa ?"],
+          "responses": ["La colline de Byrsa a été un lieu important sur le plan politique et économique dans l'histoire de Carthage, étant la colline où se trouvait le quartier général de la ville. Elle a également été un lieu de fouilles archéologiques importantes qui ont contribué à la compréhension de l'histoire de la région. Aujourd'hui, le site archéologique de la colline de Byrsa continue d'attirer des touristes, ce qui peut avoir un impact économique positif sur la région environnante."],
+          "context": ["Colline_de_Byrsa"]
+        },
+        {
+          "tag": "Q37CollinedeByrsa",
+          "patterns": ["Pouvez-vous nous parler de tout événement futur prévu sur colline de byrsa ?"],
+          "responses": ["je n'ai pas accès à des informations spécifiques sur les événements futurs prévus sur la colline de Byrsa. Il est préférable de vérifier les sites Web touristiques officiels pour les mises à jour sur les événements à venir sur la colline de Byrsa."],
+          "context": ["Colline_de_Byrsa"]
+        },
+        {
+          "tag": "Q38CollinedeByrsa",
+          "patterns": ["Quels sont les horaires et les jours d'ouverture de colline de byrsa ?"],
+          "responses": ["je n'ai pas accès aux informations en temps réel sur les horaires et les jours d'ouverture de la colline de Byrsa. Cependant, vous pouvez généralement trouver ces informations sur le site web officiel de la colline ou en les contactant directement par téléphone ou email."],
+          "context": ["Colline_de_Byrsa"]
+        },
+        {
+          "tag": "Q39CollinedeByrsa",
+          "patterns": ["Quel est le coût de l'entrée pour visiter colline de byrsa ?"],
+          "responses": ["Je suis désolé, mais je n'ai pas accès aux informations les plus récentes sur les tarifs d'entrée pour visiter colline de byrsa. Je vous recommande de consulter le site officiel du site ou de contacter directement le bureau d'information touristique local pour obtenir les informations les plus à jour."],
+          "context": ["Colline_de_Byrsa"]
+        },
+        {
+          "tag": "Q40CollinedeByrsa",
+          "patterns": ["Y a-t-il des programmes éducatifs ou des visites guidées proposées pour colline de byrsa ? dans une courte réponse"],
+          "responses": ["Oui, il y a des programmes éducatifs et des visites guidées proposées pour colline de byrsa. Les informations sur ces programmes peuvent être obtenues en contactant directement le site historique ou en visitant son site web."],
+          "context": ["Colline_de_Byrsa"]
+        },
+        {
+          "tag": "Q41CollinedeByrsa",
+          "patterns": ["Comment colline de byrsa a-t-il été affecté par les événements historiques majeurs dans la région ou dans le monde ?"],
+          "responses": ["La colline de Byrsa a été affectée par de nombreux événements historiques majeurs, notamment les guerres puniques, la colonisation romaine, les invasions vandales et byzantines, et la conquête arabe. Ces événements ont souvent entraîné la destruction ou la modification de structures existantes sur la colline, mais ont également apporté de nouvelles influences architecturales et culturelles. Plus récemment, la colline a été touchée par les changements politiques et économiques en Tunisie, ainsi que par les défis liés à la préservation et à la gestion du tourisme."],
+          "context": ["Colline_de_Byrsa"]
+        },
+        {
+          "tag": "Q42CollinedeByrsa",
+          "patterns": ["Quelle est la signification du nom de colline de byrsa ?"],
+          "responses": ["Le nom \"Byrsa\" est d'origine punique, et signifie \"citadelle\" ou \"forteresse\". Le nom est probablement lié à l'importance stratégique de la colline pour la ville punique de Carthage."],
+          "context": ["Colline_de_Byrsa"]
+        },
+        {
+          "tag": "Q43CollinedeByrsa",
+          "patterns": ["Pouvez-vous nous parler des différentes périodes historiques représentées sur colline de byrsa ? "],
+          "responses": ["La colline de Byrsa représente une histoire riche et complexe. Les fouilles ont révélé des traces de plusieurs périodes historiques, notamment la civilisation punique, romaine, vandale, byzantine et arabe. Chaque période a laissé son empreinte sur le site, avec des éléments architecturaux et des artefacts uniques qui témoignent de l'histoire de la colline et de la région environnante. Les découvertes incluent des bains romains, des mosaïques, des tombeaux puniques, des maisons vandales, des citernes byzantines et des mosquées arabes."],
+          "context": ["Colline_de_Byrsa"]
+        },
+        {
+          "tag": "Q44CollinedeByrsa",
+          "patterns": ["Comment les visiteurs peuvent-ils contribuer à la préservation de colline de byrsa ?"],
+          "responses": ["Les visiteurs peuvent contribuer à la préservation de la colline de Byrsa en suivant les règles et les consignes établies pour la conservation du site, en évitant de toucher les structures anciennes ou les objets archéologiques, et en ne laissant aucun déchet ou trace derrière eux. Ils peuvent également soutenir la conservation en faisant un don ou en achetant des souvenirs locaux auprès de magasins et de fournisseurs locaux."],
+          "context": ["Colline_de_Byrsa"]
+        },
+        {
+          "tag": "Q45CollinedeByrsa",
+          "patterns": ["Quelles sont les règles de comportement ou les restrictions à respecter lors de la visite de colline de byrsa ?"],
+          "responses": ["Les visiteurs de colline de byrsa sont tenus de respecter certaines règles de comportement et de restrictions pour préserver le site historique. Cela peut inclure des interdictions de toucher ou de déplacer des objets historiques, des restrictions sur la photographie ou l'utilisation de drones, des règles de non-fumage et de non-consommation de boissons ou de nourriture sur le site. Les visiteurs doivent également suivre les instructions données par les guides ou les panneaux d'information et éviter tout comportement perturbateur ou destructeur."],
+          "context": ["Colline_de_Byrsa"]
+        },
+        {
+          "tag": "Q46CollinedeByrsa",
+          "patterns": ["Y a-t-il des hébergements à proximité de colline de byrsa ?"],
+          "responses": ["Oui, il y a plusieurs hébergements à proximité de la colline de Byrsa. La ville de Carthage, située à quelques minutes à pied de la colline, propose une variété d'hôtels, de maisons d'hôtes et d'appartements. Il y a également des options d'hébergement dans les villes voisines de La Marsa et de Sidi Bou Said."],
+          "context": ["Colline_de_Byrsa"]
+        },
+        {
+          "tag": "Q47CollinedeByrsa",
+          "patterns": ["Quels sont les autres sites historiques à visiter dans la région ?"],
+          "responses": ["Il y a plusieurs autres sites historiques à visiter dans la région, notamment:\n\nLe Musée national du Bardo, qui abrite une importante collection d'art et d'artefacts de la Tunisie antique.\n\nLes ruines de la ville romaine de Carthage, qui sont un site du patrimoine mondial de l'UNESCO.\n\nLe site archéologique de Dougga, qui contient des ruines romaines et puniques bien préservées.\n\nLa médina de Tunis, un quartier historique de la ville avec des rues étroites et des bâtiments anciens.\n\nLe site archéologique d'El Jem, qui est l'un des plus grands amphithéâtres romains du monde.\n\nLe Ksour de Tamerza, un village berbère traditionnel situé dans les montagnes du sud-ouest de la Tunisie.\n\nCes sites offrent tous une expérience unique pour découvrir l'histoire et la culture de la Tunisie."],
+          "context": ["Colline_de_Byrsa"]
+        },
+        {
+          "tag": "Q48CollinedeByrsa",
+          "patterns": ["Quel est le moyen de transport recommandé pour se rendre à colline de byrsa ?"],
+          "responses": ["Le moyen de transport recommandé pour se rendre à la colline de Byrsa dépend de votre lieu de départ. Si vous êtes à Tunis, le plus simple est de prendre un taxi ou de louer une voiture. Si vous êtes en dehors de Tunis, il peut être plus pratique de prendre un bus ou un train pour arriver à Tunis, puis de prendre un taxi ou une voiture de location pour vous rendre à la colline de Byrsa."],
+          "context": ["Colline_de_Byrsa"]
+        },
+        {
+          "tag": "Q49CollinedeByrsa",
+          "patterns": ["Comment les visiteurs peuvent-ils obtenir plus d'informations sur colline de byrsa ?"],
+          "responses": ["Les visiteurs peuvent obtenir plus d'informations sur colline de byrsa en consultant des guides touristiques, en visitant le site web officiel du site, en contactant l'office de tourisme local ou en participant à des visites guidées sur place."],
+          "context": ["Colline_de_Byrsa"]
+        },
+        {
+          "tag": "Q50CollinedeByrsa",
+          "patterns": ["Quel est votre aspect préféré de colline de byrsa et pourquoi ?"],
+          "responses": ["Cependant, en tant que site historique important avec une riche histoire et une architecture impressionnante, la colline de Byrsa offre aux visiteurs de nombreuses opportunités de découvrir l'histoire et la culture de la région."],
+          "context": ["Colline_de_Byrsa"]
+        },
+        {
+          "tag": "Q1théatre",
+          "patterns": ["Quelle est l'histoire de théatre romaine de carthage ?"],
+          "responses": ["Le théâtre romain de Carthage a été construit au 2ème siècle après JC et pouvait accueillir environ 5 000 spectateurs. Il a été utilisé pour des représentations théâtrales ainsi que pour des événements politiques et religieux. Le théâtre a subi des dommages importants lors de la destruction de Carthage pendant les guerres puniques, mais a été restauré et agrandi à plusieurs reprises pendant l'occupation romaine de la ville. Aujourd'hui, il est l'un des sites archéologiques les plus visités de la Tunisie."],
+          "context": ["théatre"]
+        },
+        {
+          "tag": "Q2théatre",
+          "patterns": ["Qui a construit théatre romaine de carthage et pourquoi ?"],
+          "responses": ["Le théâtre romain de Carthage a été construit par les Romains au deuxième siècle après JC. Il a été construit pour répondre aux besoins de divertissement de la communauté romaine de Carthage."],
+          "context": ["théatre"]
+        },
+        {
+          "tag": "Q3théatre",
+          "patterns": ["Quand a été construit théatre romaine de carthage  ?"],
+          "responses": ["Le théâtre romain de Carthage a été construit à la fin du 1er siècle avant notre ère, probablement autour de l'année 25 avant J.C."],
+          "context": ["théatre"]
+        },
+        {
+          "tag": "Q4théatre",
+          "patterns": ["Quel est le style architectural de théatre romaine de carthage ?"],
+          "responses": ["Le théâtre romain de Carthage a été construit dans un style architectural romain classique, avec une forme semi-circulaire, des gradins en pierre et une scène en bois."],
+          "context": ["théatre"]
+        },
+        {
+          "tag": "Q5théatre",
+          "patterns": ["Pouvez-vous nous parler d'événements significatifs qui ont eu lieu sur  théatre romaine de carthage ?"],
+          "responses": ["Le théâtre romain de Carthage a été le théâtre de nombreux événements importants de l'histoire de la ville, notamment des spectacles de théâtre, de musique et de gladiateurs. Il a également été utilisé pour des événements politiques et religieux. L'un des événements les plus notables qui s'est déroulé au théâtre était le siège de Carthage en 146 av. J.-C., lorsque les troupes romaines ont envahi la ville et ont utilisé le théâtre comme camp de base."],
+          "context": ["théatre"]
+        },
+        {
+          "tag": "Q6théatre",
+          "patterns": ["Quelle est la signification de Le théâtre romain de Carthage dans l'histoire locale ou nationale ?"],
+          "responses": ["Le théâtre romain de Carthage est un site historique important dans l'histoire de la Tunisie, car il témoigne de l'influence romaine sur la région et de la richesse culturelle de Carthage. Il est considéré comme l'un des plus grands théâtres romains d'Afrique du Nord et attire des visiteurs du monde entier pour son histoire et son architecture remarquable."],
+          "context": ["théatre"]
+        },
+        {
+          "tag": "Q7théatre",
+          "patterns": ["Le théâtre romain de Carthage a-t-il subi des restaurations ou des rénovations ? "],
+          "responses": ["Oui, le théâtre romain de Carthage a subi plusieurs restaurations et rénovations au fil des siècles, notamment pendant la période médiévale et à l'époque moderne. La plus récente a eu lieu en 2012 pour restaurer la scène et la façade du bâtiment."],
+          "context": ["théatre"]
+        },
+        {
+          "tag": "Q8théatre",
+          "patterns": ["Pouvez-vous nous parler du processus de restauration de théâtre romain de Carthage ?"],
+          "responses": ["il est connu que le théâtre a subi plusieurs phases de restauration au cours des siècles pour préserver son architecture et ses structures."],
+          "context": ["théatre"]
+        },
+        {
+          "tag": "Q9théatre",
+          "patterns": ["Comment Le théâtre romain de Carthage a-t-il été préservé au fil des ans ?"],
+          "responses": ["Le théâtre romain de Carthage a été préservé au fil des ans grâce à des restaurations et des rénovations continues effectuées par les autorités locales et les organisations de conservation du patrimoine, ainsi que par des mesures de protection et de gestion du site."],
+          "context": ["théatre"]
+        },
+        {
+          "tag": "Q10théatre",
+          "patterns": ["Quels matériaux ont été utilisés dans la construction de Le théâtre romain de Carthage ?"],
+          "responses": ["Les matériaux utilisés dans la construction du théâtre romain de Carthage sont principalement la pierre et le béton. Les gradins sont construits en pierre tandis que les murs sont en béton. Des colonnes en marbre ont également été utilisées pour décorer l'entrée et les murs du théâtre."],
+          "context": ["théatre"]
+        },
+        {
+          "tag": "Q11théatre",
+          "patterns": ["Y a-t-il des faits ou des histoires intéressantes associés à le théâtre romain de Carthage ?"],
+          "responses": ["Le théâtre romain de Carthage a accueilli de nombreux événements historiques et culturels importants, notamment des jeux et des spectacles, ainsi que des réunions politiques importantes. Au fil des siècles, il a été utilisé de différentes manières et a même été transformé en une forteresse pendant la période ottomane. Aujourd'hui, il est l'un des sites les plus emblématiques de Tunisie et est considéré comme un symbole de l'histoire et de la culture de la région."],
+          "context": ["théatre"]
+        },
+        {
+          "tag": "Q12théatre",
+          "patterns": ["Pouvez-vous nous parler de la vie et des temps des personnes qui ont vécu ou travaillé sur le théâtre romain de Carthage ?"],
+          "responses": ["En tant que site historique, le théâtre romain de Carthage a été le théâtre de nombreuses représentations culturelles et artistiques dans l'Antiquité, mais il est peu probable qu'il ait été le lieu de résidence permanente de personnes. Cependant, les personnes qui ont travaillé à sa construction et à son entretien ont probablement été des ouvriers et des artisans locaux, dont les compétences ont été utilisées pour construire ce monument impressionnant."],
+          "context": ["théatre"]
+        },
+        {
+          "tag": "Q13théatre",
+          "patterns": ["Quel était la routine quotidienne des personnes qui ont vécu ou travaillé sur le théâtre romain de Carthage ?"],
+          "responses": ["il est possible de supposer que les personnes qui ont travaillé sur le site devaient être des ouvriers et des artisans, et que leur routine quotidienne était probablement très différente de celle des citoyens romains riches et influents."],
+          "context": ["théatre"]
+        },
+        {
+          "tag": "Q14théatre",
+          "patterns": ["Pouvez-vous nous montrer des artefacts ou des reliques de l'époque du théâtre romain de Carthage ?"],
+          "responses": [" je ne peux pas montrer des artefacts ou des reliques de l'époque du site historique, mais je peux vous informer que des découvertes archéologiques ont été faites sur le site du théâtre romain de Carthage, notamment des fragments de sculptures et d'architecture, des inscriptions en latin, des pièces de monnaie et des objets de la vie quotidienne romaine. Ces découvertes sont exposées dans divers musées et institutions à travers la Tunisie."],
+          "context": ["théatre"]
+        },
+        {
+          "tag": "Q15théatre",
+          "patterns": ["Quelle est la signification des artefacts ou des reliques que vous nous montrez ?"],
+          "responses": ["Je suis désolé, mais en tant que modèle de langage, je ne peux pas vous montrer d'artefacts ou de reliques associés à un site historique spécifique car je n'ai pas accès à des images ou des objets physiques. Cependant, je peux vous dire que les artefacts et les reliques associés à un site historique peuvent être importants car ils peuvent fournir des informations sur la vie et la culture des personnes qui ont vécu ou travaillé sur ce site. Ces objets peuvent également aider les historiens et les archéologues à mieux comprendre l'histoire de la région ou du pays où se trouve le site."],
+          "context": ["théatre"]
+        },
+        {
+          "tag": "Q16théatre",
+          "patterns": ["Pouvez-vous nous parler de personnes célèbres associées à le théâtre romain de Carthage  ?"],
+          "responses": ["Le théâtre romain de Carthage a accueilli de nombreux événements historiques et de célèbres personnalités telles que l'empereur romain Septime Sévère et son fils Caracalla. Plus récemment, le théâtre a accueilli des concerts de musiciens célèbres tels que Sting et Yanni."],
+          "context": ["théatre"]
+        },
+        {
+          "tag": "Q17théatre",
+          "patterns": ["Y a-t-il des légendes ou des mythes associés à le théâtre romain de Carthage ?"],
+          "responses": ["Je ne suis pas au courant de légendes ou de mythes spécifiques associés au théâtre romain de Carthage. Cependant, étant donné l'histoire riche et complexe de la ville de Carthage et de la région environnante, il est possible qu'il y ait des histoires légendaires ou mythologiques qui y sont liées. Il serait utile de consulter des sources locales ou des experts en histoire et en mythologie pour en savoir plus à ce sujet."],
+          "context": ["théatre"]
+        },
+        {
+          "tag": "Q18théatre",
+          "patterns": ["Pouvez-vous expliquer la symbolique derrière l'architecture ou le design de le théâtre romain de Carthage ?"],
+          "responses": ["En tant que modèle de l'architecture romaine, le théâtre romain de Carthage était destiné à mettre en valeur le pouvoir et la grandeur de Rome. La conception de son architecture, avec son style en demi-cercle et ses gradins en couches successives, était destinée à garantir une vue dégagée sur la scène à tous les spectateurs, quelle que soit leur position dans le théâtre. Le décor élaboré de la scène, avec des colonnes et des sculptures, témoignait également de la richesse et du goût pour les arts des Romains."],
+          "context": ["théatre"]
+        },
+        {
+          "tag": "Q19théatre",
+          "patterns": ["Comment Le théâtre romain de Carthage a-t-il influencé la culture ou l'art de la région ?"],
+          "responses": ["Le théâtre romain de Carthage a influencé la culture et l'art de la région en servant de lieu de représentation pour les spectacles et les festivals durant l'Antiquité. Aujourd'hui, il est un symbole important de l'histoire et de la culture de la Tunisie, attirant des touristes et des artistes du monde entier."],
+          "context": ["théatre"]
+        },
+        {
+          "tag": "Q20théatre",
+          "patterns": ["Pouvez-vous nous montrer des documents ou des manuscrits originaux liés à Le théâtre romain de Carthage ?"],
+          "responses": ["Je suis désolé,je ne peux pas vous montrer des documents ou des manuscrits originaux, car je n'ai pas de capacité visuelle. "],
+          "context": ["théatre"]
+        },
+        {
+          "tag": "Q21théatre",
+          "patterns": ["Quelle est la signification culturelle du théâtre romain de Carthage pour les habitants ?"],
+          "responses": ["Le théâtre romain de Carthage est un symbole important de l'histoire et de la culture de la Tunisie. Il est considéré comme un joyau architectural et un témoignage de l'importance de Carthage dans l'Empire romain. Pour les habitants, le théâtre est un lieu emblématique qui attire de nombreux touristes chaque année et contribue à la promotion du patrimoine culturel tunisien."],
+          "context": ["théatre"]
+        },
+        {
+          "tag": "Q22théatre",
+          "patterns": ["Comment Le théâtre romain de Carthage a-t-il été interprété ou représenté dans la littérature, l'art ou le cinéma ?"],
+          "responses": ["Le théâtre romain de Carthage a été représenté dans plusieurs œuvres littéraires et artistiques, notamment dans le roman \"Salammbo\" de Gustave Flaubert, ainsi que dans des peintures et des dessins de nombreux artistes. Il a également été utilisé comme décor pour des films historiques, tels que \"Le Cid\" en 1961 et \"Gladiator\" en 2000."],
+          "context": ["théatre"]
+        },
+        {
+          "tag": "Q23théatre",
+          "patterns": ["Pouvez-vous nous parler de la signification religieuse ou spirituelle du théâtre romain de Carthage ?"],
+          "responses": ["Le théâtre romain de Carthage n'a pas de signification religieuse ou spirituelle particulière, car il était principalement utilisé pour des représentations théâtrales et des événements publics."],
+          "context": ["théatre"]
+        },
+        {
+          "tag": "Q24théatre",
+          "patterns": ["Y a-t-il des caractéristiques ou des éléments uniques dans la conception ou l'architecture du théâtre romain de Carthage ?"],
+          "responses": ["Oui, le théâtre romain de Carthage se distingue par son architecture typique des théâtres romains, avec une grande scène semi-circulaire et une cavea en gradins pouvant accueillir jusqu'à 15 000 spectateurs. Il présente également des éléments de décoration uniques, notamment des sculptures et des motifs architecturaux."],
+          "context": ["théatre"]
+        },
+        {
+          "tag": "Q25théatre",
+          "patterns": ["Y a-t-il des défis ou des difficultés à maintenir le théâtre romain de Carthage ?"],
+          "responses": ["ui, il peut y avoir plusieurs défis à maintenir un site historique comme le théâtre romain de Carthage. Les principaux défis peuvent inclure la nécessité de préserver et protéger les structures historiques contre les dommages naturels tels que les intempéries, l'érosion et les tremblements de terre, ainsi que les dommages causés par les visiteurs. Le financement pour la restauration et la maintenance peut également être un défi important pour certains sites historiques."],
+          "context": ["théatre"]
+        },
+        {
+          "tag": "Q26théatre",
+          "patterns": ["Pouvez-vous nous parler des défis de la gestion du tourisme sur  théâtre romain de Carthage  ?"],
+          "responses": ["Certains des défis de la gestion du tourisme sur le site historique du théâtre romain de Carthage sont liés à la conservation et à la préservation du site tout en permettant aux visiteurs de l'explorer en toute sécurité et sans causer de dommages. Les autorités doivent également gérer les foules de touristes, préserver l'expérience de visite authentique et éducative et protéger le site contre le vandalisme et le pillage. La gestion du tourisme doit également prendre en compte les considérations environnementales et la durabilité."],
+          "context": ["théatre"]
+        },
+        {
+          "tag": "Q27théatre",
+          "patterns": ["Comment le tourisme a-t-il affecté la préservation du théâtre romain de Carthage ?"],
+          "responses": ["Le tourisme peut avoir un impact positif en augmentant la sensibilisation et les fonds pour la préservation du site historique, mais il peut également avoir des effets négatifs tels que l'usure et la détérioration du site en raison d'une forte fréquentation. Il est important de mettre en place des mesures de gestion du tourisme durable pour minimiser les impacts négatifs et assurer la préservation à long terme du site."],
+          "context": ["théatre"]
+        },
+        {
+          "tag": "Q28théatre",
+          "patterns": ["Y a-t-il des aspects controversés ou contestés du théâtre romain de Carthage ?"],
+          "responses": ["Il n'y a pas d'aspects controversés ou contestés majeurs de l'histoire du théâtre romain de Carthage connus à ce jour."],
+          "context": ["théatre"]
+        },
+        {
+          "tag": "Q29théatre",
+          "patterns": ["Pouvez-vous nous parler de tout travail de recherche ou de fouilles en cours sur le théâtre romain de Carthage ?"],
+          "responses": ["Je n'ai pas accès à des informations en temps réel sur les recherches ou fouilles en cours sur le théâtre romain de Carthage, mais il est possible qu'il y ait des travaux en cours pour approfondir notre compréhension de l'histoire et de la signification de ce site historique. Les fouilles archéologiques ont souvent lieu pour découvrir de nouveaux artefacts ou informations sur le site, tandis que les recherches peuvent se concentrer sur l'interprétation de ce qui a déjà été découvert."],
+          "context": ["théatre"]
+        },
+        {
+          "tag": "Q30théatre",
+          "patterns": ["Y a-t-il des découvertes ou des trouvailles significatives sur le théâtre romain de Carthage ?"],
+          "responses": ["Il y a eu plusieurs découvertes significatives sur le site du théâtre romain de Carthage, notamment des mosaïques, des inscriptions, des statues et des fragments de colonnes. Parmi les découvertes les plus remarquables, il y a la statue de la déesse Tanit, qui est maintenant exposée au Musée National de Carthage, ainsi que des mosaïques représentant des scènes mythologiques. Les fouilles archéologiques sur le site sont en cours et de nouvelles découvertes pourraient être faites à l'avenir."],
+          "context": ["théatre"]
+        },
+        {
+          "tag": "Q31théatre",
+          "patterns": ["Comment la technologie a-t-elle aidé à la préservation ou à l'interprétation du théâtre romain de Carthage ?"],
+          "responses": ["La technologie a permis de créer des modèles 3D détaillés du théâtre romain de Carthage, aidant ainsi à sa préservation en permettant aux experts de mieux comprendre la structure et de planifier les travaux de conservation. Les technologies de réalité virtuelle ont également été utilisées pour aider les visiteurs à visualiser comment le site aurait pu être à l'époque romaine."],
+          "context": ["théatre"]
+        },
+        {
+          "tag": "Q32théatre",
+          "patterns": ["Pouvez-vous nous parler de tout détail architectural ou de conception significatif du théâtre romain de Carthage ?"],
+          "responses": ["Le théâtre romain de Carthage est connu pour son impressionnante scène de 90 mètres de large, ainsi que pour ses arcs de triomphe et ses colonnes. Les gradins, qui ont une capacité de 25 000 personnes, sont divisés en trois niveaux et présentent des motifs géométriques complexes en marbre. L'ensemble du théâtre est construit en pierre calcaire locale, avec des briques pour les voûtes et les arcs. Les voies d'accès au théâtre sont bordées de colonnes et de statues, ajoutant une touche de grandeur supplémentaire à cette structure impressionnante."],
+          "context": ["théatre"]
+        },
+        {
+          "tag": "Q33théatre",
+          "patterns": ["Y a-t-il des caractéristiques uniques ou inhabituelles du théâtre romain de Carthage qui le distinguent des autres de la région ?"],
+          "responses": ["Le théâtre romain de Carthage se distingue des autres sites historiques de la région par son emplacement sur une colline offrant une vue panoramique sur la ville et la mer, ainsi que par son architecture qui intègre des éléments romains et puniques. De plus, il est l'un des plus grands théâtres de l'époque romaine en Afrique du Nord, avec une capacité d'accueil de 15 000 à 30 000 spectateurs."],
+          "context": ["théatre"]
+        },
+        {
+          "tag": "Q34théatre",
+          "patterns": [" Comment la communauté locale a-t-elle été impliquée dans la préservation ou la promotion du théâtre romain de Carthage ? "],
+          "responses": ["La communauté locale a joué un rôle important dans la préservation et la promotion du théâtre romain de Carthage. Des organisations locales ont été créées pour sensibiliser le public à l'importance historique du site, et des événements culturels y sont régulièrement organisés pour célébrer l'héritage de la ville antique. Les habitants locaux sont également employés dans le domaine de l'archéologie pour aider à la recherche et à la préservation du site."],
+          "context": ["théatre"]
+        },
+        {
+          "tag": "Q35théatre",
+          "patterns": ["Quelle est la signification politique ou économique du théâtre romain de Carthage ?"],
+          "responses": ["Le théâtre romain de Carthage a une grande signification politique et économique pour la Tunisie. En plus d'être un site touristique majeur, il représente également un symbole de la richesse culturelle et historique de la Tunisie, ainsi qu'un moyen de renforcer l'identité nationale et de promouvoir le patrimoine tunisien auprès du monde entier. De plus, le tourisme généré par le théâtre romain de Carthage contribue à l'économie locale et nationale en créant des emplois et en stimulant la croissance économique."],
+          "context": ["théatre"]
+        },
+        {
+          "tag": "Q36théatre",
+          "patterns": ["Pouvez-vous nous parler de tout événement futur prévu sur le  théâtre romain de Carthage  ?"],
+          "responses": ["En raison de la pandémie en cours, il n'y a actuellement aucune information sur les événements futurs prévus pour le théâtre romain de Carthage. Cependant, il est régulièrement utilisé pour des festivals de musique et de théâtre en été lorsqu'il n'y a pas de restrictions sanitaires."],
+          "context": ["théatre"]
+        },
+        {
+          "tag": "Q37théatre",
+          "patterns": ["Quels sont les horaires et les jours d'ouverture du théâtre romain de Carthage ?"],
+          "responses": ["Je suis désolé, mais je n'ai pas accès aux horaires et jours d'ouverture en temps réel des sites historiques. Je vous recommande de consulter le site officiel ou de contacter directement le site historique pour obtenir des informations à jour sur les horaires et jours d'ouverture."],
+          "context": ["théatre"]
+        },
+        {
+          "tag": "Q38théatre",
+          "patterns": ["Quel est le coût de l'entrée pour visiter le théâtre romain de Carthage ?"],
+          "responses": ["Je suis désolé, mais je ne dispose pas de cette information. Les coûts d'entrée peuvent varier en fonction de nombreux facteurs tels que le type de billet, l'âge, la nationalité, etc. Il est recommandé de consulter le site web officiel du théâtre romain de Carthage ou de contacter directement le site pour obtenir des informations précises sur les coûts d'entrée."],
+          "context": ["théatre"]
+        },
+        {
+          "tag": "Q39théatre",
+          "patterns": ["Y a-t-il des programmes éducatifs ou des visites guidées proposées pour le théâtre romain de Carthage ?"],
+          "responses": ["Oui, il y a des programmes éducatifs et des visites guidées proposés pour le théâtre romain de Carthage. Les visiteurs peuvent contacter le service de tourisme local pour obtenir plus d'informations."],
+          "context": ["théatre"]
+        },
+        {
+          "tag": "Q40théatre",
+          "patterns": ["Comment Le théâtre romain de Carthage a-t-il été affecté par les événements historiques majeurs dans la région ou dans le monde ?"],
+          "responses": ["Le théâtre romain de Carthage a subi des dommages importants pendant les guerres puniques entre Rome et Carthage au deuxième siècle avant J.-C. Il a également été endommagé lors des invasions arabes au septième siècle. Plus récemment, le site a été touché par les attentats terroristes de 2015 en Tunisie, qui ont eu un impact négatif sur le tourisme dans le pays et donc sur le nombre de visiteurs du site."],
+          "context": ["théatre"]
+        },
+        {
+          "tag": "Q41théatre",
+          "patterns": ["Quelle est la signification du nom du théâtre romain de Carthage ?"],
+          "responses": ["Le nom \"théâtre romain de Carthage\" fait référence à la ville antique de Carthage en Tunisie et à son théâtre construit pendant la période romaine."],
+          "context": ["théatre"]
+        },
+        {
+          "tag": "Q42théatre",
+          "patterns": ["Pouvez-vous nous parler des différentes périodes historiques représentées sur le théâtre romain de Carthage ?"],
+          "responses": ["Le Théâtre romain de Carthage est un site historique qui représente principalement la période romaine, mais également la période punique et chrétienne. Le site a été construit au 2ème siècle après JC, à l'époque de l'Empire romain, mais il a été construit sur un site qui avait été occupé par la ville punique de Carthage. Plus tard, après la chute de l'Empire romain, le site a été converti en une forteresse byzantine et utilisé comme église chrétienne. Ainsi, le site témoigne de différentes périodes de l'histoire de la région."],
+          "context": ["théatre"]
+        },
+        {
+          "tag": "Q43théatre",
+          "patterns": ["Comment les visiteurs peuvent-ils contribuer à la préservation ddu théâtre romain de Carthage ?"],
+          "responses": ["Les visiteurs peuvent contribuer à la préservation du site historique en respectant les règles et les réglementations en vigueur, en évitant de toucher ou d'endommager les structures historiques, en ne laissant pas de déchets et en signalant toute activité suspecte ou tout dommage constaté. Il est également possible de soutenir la préservation du site en faisant des dons à des organisations locales ou nationales qui travaillent à sa préservation et à sa promotion."],
+          "context": ["théatre"]
+        },
+        {
+          "tag": "Q44théatre",
+          "patterns": ["Quelles sont les règles de comportement ou les restrictions à respecter lors de la visite du théâtre romain de Carthage ?"],
+          "responses": ["Les règles de comportement et les restrictions lors de la visite du site historique du Théâtre romain de Carthage incluent le respect des barrières et des panneaux de signalisation, la non-introduction d'objets nuisibles ou dangereux, la non-consommation de nourriture ou de boissons, ainsi que la non-dégradation ou la détérioration de tout élément du site. Il est également interdit de fumer, de jeter des déchets ou de causer tout type de dérangement. Les visiteurs sont encouragés à suivre les instructions des guides et à être respectueux envers le patrimoine culturel."],
+          "context": ["théatre"]
+        },
+        {
+          "tag": "Q45théatre",
+          "patterns": ["Y a-t-il des hébergements à proximité de ce site historique ?"],
+          "responses": ["Oui, il y a plusieurs options d'hébergement à proximité du Théâtre romain de Carthage, notamment des hôtels, des maisons d'hôtes et des appartements de location saisonnière."],
+          "context": ["théatre"]
+        },
+        {
+          "tag": "Q46théatre",
+          "patterns": ["Quels sont les autres sites historiques à visiter dans la région ?"],
+          "responses": ["Dans la région de Carthage, il y a plusieurs autres sites historiques intéressants à visiter, tels que les ruines de l'ancienne cité de Carthage elle-même, le musée national de Carthage, le site archéologique de Sidi Bou Saïd, et la ville romaine de Dougga."],
+          "context": ["théatre"]
+        },
+        {
+          "tag": "Q47théatre",
+          "patterns": ["Quel est le moyen de transport recommandé pour se rendre à le théâtre romain de Carthage ?"],
+          "responses": ["Le moyen de transport recommandé pour se rendre au théâtre romain de Carthage est en voiture ou en taxi."],
+          "context": ["théatre"]
+        },
+        {
+          "tag": "Q48théatre",
+          "patterns": ["Comment les visiteurs peuvent-ils obtenir plus d'informations sur ce site historique ?"],
+          "responses": ["Les visiteurs peuvent obtenir plus d'informations sur le site historique en consultant le site officiel du théâtre romain de Carthage ou en se renseignant auprès de l'office de tourisme local. Des guides touristiques et des brochures d'information sont également disponibles sur place."],
+          "context": ["théatre"]
+        },
+        {
+          "tag": "Q49théatre",
+          "patterns": ["Quel est votre aspect préféré de ce site historique et pourquoi ?"],
+          "responses": ["En tant qu'IA, je n'ai pas de préférences, mais je peux dire que le théâtre romain de Carthage est un site historique fascinant qui témoigne de l'importance de la ville de Carthage dans l'Antiquité et de l'influence romaine dans la région. La magnifique architecture du théâtre et son histoire riche en font un lieu incontournable pour les amateurs d'histoire et de culture."],
+          "context": ["théatre"]
+        },
+        {
+          "tag": "Q1Villas romaines",
+          "patterns": [""],
+          "responses": [""],
+          "context": [""]
+        },
+        {
+          "tag": "Q2Villas romaines",
+          "patterns": [""],
+          "responses": [""],
+          "context": [""]
+        },
+        {
+          "tag": "Q3Villas romaines",
+          "patterns": [""],
+          "responses": [""],
+          "context": [""]
+        },
+        {
+          "tag": "Q4Villas romaines",
+          "patterns": [""],
+          "responses": [""],
+          "context": [""]
+        },
+        {
+          "tag": "Q5Villas romaines",
+          "patterns": [""],
+          "responses": [""],
+          "context": [""]
+        },
+        {
+          "tag": "Q6Villas romaines",
+          "patterns": [""],
+          "responses": [""],
+          "context": [""]
+        },
+        {
+          "tag": "Q7Villas romaines",
+          "patterns": [""],
+          "responses": [""],
+          "context": [""]
+        },
+        {
+          "tag": "Q8Villas romaines",
+          "patterns": [""],
+          "responses": [""],
+          "context": [""]
+        },
+        {
+          "tag": "Q9Villas romaines",
+          "patterns": [""],
+          "responses": [""],
+          "context": [""]
+        },
+        {
+          "tag": "Q10Villas romaines",
+          "patterns": [""],
+          "responses": [""],
+          "context": [""]
+        },
+        {
+          "tag": "Q11Villas romaines",
+          "patterns": [""],
+          "responses": [""],
+          "context": [""]
+        },
+        {
+          "tag": "Q12Villas romaines",
+          "patterns": [""],
+          "responses": [""],
+          "context": [""]
+        },
+        {
+          "tag": "Q13Villas romaines",
+          "patterns": [""],
+          "responses": [""],
+          "context": [""]
+        },
+        {
+          "tag": "Q14Villas romaines",
+          "patterns": [""],
+          "responses": [""],
+          "context": [""]
+        },
+        {
+          "tag": "Q15Villas romaines",
+          "patterns": [""],
+          "responses": [""],
+          "context": [""]
+        },
+        {
+          "tag": "Q16Villas romaines",
+          "patterns": [""],
+          "responses": [""],
+          "context": [""]
+        },
+        {
+          "tag": "Q17Villas romaines",
+          "patterns": [""],
+          "responses": [""],
+          "context": [""]
+        },
+        {
+          "tag": "Q18Villas romaines",
+          "patterns": [""],
+          "responses": [""],
+          "context": [""]
+        },
+        {
+          "tag": "Q19Villas romaines",
+          "patterns": [""],
+          "responses": [""],
+          "context": [""]
+        },
+        {
+          "tag": "Q20Villas romaines",
+          "patterns": [""],
+          "responses": [""],
+          "context": [""]
+        },
+        {
+          "tag": "Q21Villas romaines",
+          "patterns": [""],
+          "responses": [""],
+          "context": [""]
+        },
+        {
+          "tag": "Q22Villas romaines",
+          "patterns": [""],
+          "responses": [""],
+          "context": [""]
+        },
+        {
+          "tag": "Q23Villas romaines",
+          "patterns": [""],
+          "responses": [""],
+          "context": [""]
+        },
+        {
+          "tag": "Q24Villas romaines",
+          "patterns": [""],
+          "responses": [""],
+          "context": [""]
+        },
+        {
+          "tag": "Q25Villas romaines",
+          "patterns": [""],
+          "responses": [""],
+          "context": [""]
+        },
+        {
+          "tag": "Q26Villas romaines",
+          "patterns": [""],
+          "responses": [""],
+          "context": [""]
+        },
+        {
+          "tag": "Q27Villas romaines",
+          "patterns": [""],
+          "responses": [""],
+          "context": [""]
+        },
+        {
+          "tag": "Q28Villas romaines",
+          "patterns": [""],
+          "responses": [""],
+          "context": [""]
+        },
+        {
+          "tag": "Q29Villas romaines",
+          "patterns": [""],
+          "responses": [""],
+          "context": [""]
+        },
+        {
+          "tag": "Q30Villas romaines",
+          "patterns": [""],
+          "responses": [""],
+          "context": [""]
+        },
+        {
+          "tag": "Q31Villas romaines",
+          "patterns": [""],
+          "responses": [""],
+          "context": [""]
+        },
+        {
+          "tag": "Q32Villas romaines",
+          "patterns": [""],
+          "responses": [""],
+          "context": [""]
+        },
+        {
+          "tag": "Q33Villas romaines",
+          "patterns": [""],
+          "responses": [""],
+          "context": [""]
+        },
+        {
+          "tag": "Q34Villas romaines",
+          "patterns": [""],
+          "responses": [""],
+          "context": [""]
+        },
+        {
+          "tag": "Q35Villas romaines",
+          "patterns": [""],
+          "responses": [""],
+          "context": [""]
+        },
+        {
+          "tag": "Q36Villas romaines",
+          "patterns": [""],
+          "responses": [""],
+          "context": [""]
+        },
+        {
+          "tag": "Q37Villas romaines",
+          "patterns": [""],
+          "responses": [""],
+          "context": [""]
+        },
+        {
+          "tag": "Q38Villas romaines",
+          "patterns": [""],
+          "responses": [""],
+          "context": [""]
+        },
+        {
+          "tag": "Q39Villas romaines",
+          "patterns": [""],
+          "responses": [""],
+          "context": [""]
+        },
+        {
+          "tag": "Q40Villas romaines",
+          "patterns": [""],
+          "responses": [""],
+          "context": [""]
+        },
+        {
+          "tag": "Q41Villas romaines",
+          "patterns": [""],
+          "responses": [""],
+          "context": [""]
+        },
+        {
+          "tag": "Q42Villas romaines",
+          "patterns": [""],
+          "responses": [""],
+          "context": [""]
+        },
+        {
+          "tag": "Q43Villas romaines",
+          "patterns": [""],
+          "responses": [""],
+          "context": [""]
+        },
+        {
+          "tag": "Q44Villas romaines",
+          "patterns": [""],
+          "responses": [""],
+          "context": [""]
+        },
+        {
+          "tag": "Q45Villas romaines",
+          "patterns": [""],
+          "responses": [""],
+          "context": [""]
+        },
+        {
+          "tag": "Q46Villas romaines",
+          "patterns": [""],
+          "responses": [""],
+          "context": [""]
+        },
+        {
+          "tag": "Q47Villas romaines",
+          "patterns": [""],
+          "responses": [""],
+          "context": [""]
+        },
+        {
+          "tag": "Q48Villas romaines",
+          "patterns": [""],
+          "responses": [""],
+          "context": [""]
+        },
+        {
+          "tag": "Q49Villas romaines",
+          "patterns": [""],
+          "responses": [""],
+          "context": [""]
+        },
+        {
+          "tag": "Q50Villas romaines",
+          "patterns": [""],
+          "responses": [""],
+          "context": [""]
+        },
+        {
+          "tag": "Q1Quartier Magon",
+          "patterns": [""],
+          "responses": [""],
+          "context": [""]
+        },
+        {
+          "tag": "Q2Quartier Magon",
+          "patterns": [""],
+          "responses": [""],
+          "context": [""]
+        },
+        {
+          "tag": "Q3Quartier Magon",
+          "patterns": [""],
+          "responses": [""],
+          "context": [""]
+        },
+        {
+          "tag": "Q4Quartier Magon",
+          "patterns": [""],
+          "responses": [""],
+          "context": [""]
+        },
+        {
+          "tag": "Q5Quartier Magon",
+          "patterns": [""],
+          "responses": [""],
+          "context": [""]
+        },
+        {
+          "tag": "Q6Quartier Magon",
+          "patterns": [""],
+          "responses": [""],
+          "context": [""]
+        },
+        {
+          "tag": "Q7Quartier Magon",
+          "patterns": [""],
+          "responses": [""],
+          "context": [""]
+        },
+        {
+          "tag": "Q8Quartier Magon",
+          "patterns": [""],
+          "responses": [""],
+          "context": [""]
+        },
+        {
+          "tag": "Q9Quartier Magon",
+          "patterns": [""],
+          "responses": [""],
+          "context": [""]
+        },
+        {
+          "tag": "Q10Quartier Magon",
+          "patterns": [""],
+          "responses": [""],
+          "context": [""]
+        },
+        {
+          "tag": "Q11Quartier Magon",
+          "patterns": [""],
+          "responses": [""],
+          "context": [""]
+        },
+        {
+          "tag": "Q12Quartier Magon",
+          "patterns": [""],
+          "responses": [""],
+          "context": [""]
+        },
+        {
+          "tag": "Q13Quartier Magon",
+          "patterns": [""],
+          "responses": [""],
+          "context": [""]
+        },
+        {
+          "tag": "Q14Quartier Magon",
+          "patterns": [""],
+          "responses": [""],
+          "context": [""]
+        },
+        {
+          "tag": "Q15Quartier Magon",
+          "patterns": [""],
+          "responses": [""],
+          "context": [""]
+        },
+        {
+          "tag": "Q16Quartier Magon",
+          "patterns": [""],
+          "responses": [""],
+          "context": [""]
+        },
+        {
+          "tag": "Q17Quartier Magon",
+          "patterns": [""],
+          "responses": [""],
+          "context": [""]
+        },
+        {
+          "tag": "Q18Quartier Magon",
+          "patterns": [""],
+          "responses": [""],
+          "context": [""]
+        },
+        {
+          "tag": "Q19Quartier Magon",
+          "patterns": [""],
+          "responses": [""],
+          "context": [""]
+        },
+        {
+          "tag": "Q20Quartier Magon",
+          "patterns": [""],
+          "responses": [""],
+          "context": [""]
+        },
+        {
+          "tag": "Q21Quartier Magon",
+          "patterns": [""],
+          "responses": [""],
+          "context": [""]
+        },
+        {
+          "tag": "Q22Quartier Magon",
+          "patterns": [""],
+          "responses": [""],
+          "context": [""]
+        },
+        {
+          "tag": "Q23Quartier Magon",
+          "patterns": [""],
+          "responses": [""],
+          "context": [""]
+        },
+        {
+          "tag": "Q24Quartier Magon",
+          "patterns": [""],
+          "responses": [""],
+          "context": [""]
+        },
+        {
+          "tag": "Q25Quartier Magon",
+          "patterns": [""],
+          "responses": [""],
+          "context": [""]
+        },
+        {
+          "tag": "Q26Quartier Magon",
+          "patterns": [""],
+          "responses": [""],
+          "context": [""]
+        },
+        {
+          "tag": "Q27Quartier Magon",
+          "patterns": [""],
+          "responses": [""],
+          "context": [""]
+        },
+        {
+          "tag": "Q28Quartier Magon",
+          "patterns": [""],
+          "responses": [""],
+          "context": [""]
+        },
+        {
+          "tag": "Q29Quartier Magon",
+          "patterns": [""],
+          "responses": [""],
+          "context": [""]
+        },
+        {
+          "tag": "Q30Quartier Magon",
+          "patterns": [""],
+          "responses": [""],
+          "context": [""]
+        },
+        {
+          "tag": "Q31Quartier Magon",
+          "patterns": [""],
+          "responses": [""],
+          "context": [""]
+        },
+        {
+          "tag": "Q32Quartier Magon",
+          "patterns": [""],
+          "responses": [""],
+          "context": [""]
+        },
+        {
+          "tag": "Q33Quartier Magon",
+          "patterns": [""],
+          "responses": [""],
+          "context": [""]
+        },
+        {
+          "tag": "Q34Quartier Magon",
+          "patterns": [""],
+          "responses": [""],
+          "context": [""]
+        },
+        {
+          "tag": "Q35Quartier Magon",
+          "patterns": [""],
+          "responses": [""],
+          "context": [""]
+        },
+        {
+          "tag": "Q36Quartier Magon",
+          "patterns": [""],
+          "responses": [""],
+          "context": [""]
+        },
+        {
+          "tag": "Q37Quartier Magon",
+          "patterns": [""],
+          "responses": [""],
+          "context": [""]
+        },
+        {
+          "tag": "Q38Quartier Magon",
+          "patterns": [""],
+          "responses": [""],
+          "context": [""]
+        },
+        {
+          "tag": "Q39Quartier Magon",
+          "patterns": [""],
+          "responses": [""],
+          "context": [""]
+        },
+        {
+          "tag": "Q40Quartier Magon",
+          "patterns": [""],
+          "responses": [""],
+          "context": [""]
+        },
+        {
+          "tag": "Q41Quartier Magon",
+          "patterns": [""],
+          "responses": [""],
+          "context": [""]
+        },
+        {
+          "tag": "Q42Quartier Magon",
+          "patterns": [""],
+          "responses": [""],
+          "context": [""]
+        },
+        {
+          "tag": "Q43Quartier Magon",
+          "patterns": [""],
+          "responses": [""],
+          "context": [""]
+        },
+        {
+          "tag": "Q44Quartier Magon",
+          "patterns": [""],
+          "responses": [""],
+          "context": [""]
+        },
+        {
+          "tag": "Q45Quartier Magon",
+          "patterns": [""],
+          "responses": [""],
+          "context": [""]
+        },
+        {
+          "tag": "Q46Quartier Magon",
+          "patterns": [""],
+          "responses": [""],
+          "context": [""]
+        },
+        {
+          "tag": "Q47Quartier Magon",
+          "patterns": [""],
+          "responses": [""],
+          "context": [""]
+        },
+        {
+          "tag": "Q48Quartier Magon",
+          "patterns": [""],
+          "responses": [""],
+          "context": [""]
+        },
+        {
+          "tag": "Q49Quartier Magon",
+          "patterns": [""],
+          "responses": [""],
+          "context": [""]
+        },
+        {
+          "tag": "Q50Quartier Magon",
+          "patterns": [""],
+          "responses": [""],
+          "context": [""]
+        },
+        {
+          "tag": "Q1Thermes d'Antonin",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q2Thermes d'Antonin",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q3Thermes d'Antonin",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q4Thermes d'Antonin",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q5Thermes d'Antonin",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q6Thermes d'Antonin",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q7Thermes d'Antonin",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q8Thermes d'Antonin",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q9Thermes d'Antonin",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q10Thermes d'Antonin",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q11Thermes d'Antonin",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q12Thermes d'Antonin",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q13Thermes d'Antonin",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q14Thermes d'Antonin",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q15Thermes d'Antonin",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q16Thermes d'Antonin",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q17Thermes d'Antonin",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q18Thermes d'Antonin",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q19Thermes d'Antonin",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q20Thermes d'Antonin",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q21Thermes d'Antonin",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q22Thermes d'Antonin",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q23Thermes d'Antonin",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q24Thermes d'Antonin",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q25Thermes d'Antonin",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q26Thermes d'Antonin",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q27Thermes d'Antonin",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q28Thermes d'Antonin",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q29Thermes d'Antonin",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q30Thermes d'Antonin",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q31Thermes d'Antonin",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q32Thermes d'Antonin",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q33Thermes d'Antonin",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q34Thermes d'Antonin",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q35Thermes d'Antonin",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q36Thermes d'Antonin",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q37Thermes d'Antonin",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q38Thermes d'Antonin",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q39Thermes d'Antonin",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q40Thermes d'Antonin",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q41Thermes d'Antonin",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q42Thermes d'Antonin",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q43Thermes d'Antonin",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q44Thermes d'Antonin",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q45Thermes d'Antonin",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q46Thermes d'Antonin",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q47Thermes d'Antonin",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q48Thermes d'Antonin",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q49Thermes d'Antonin",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q50Thermes d'Antonin",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q1Ports puniques",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q2Ports puniques",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q3Ports puniques",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q4Ports puniques",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q5Ports puniques",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q6Ports puniques",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q7Ports puniques",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q8Ports puniques",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q9Ports puniques",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q10Ports puniques",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q11Ports puniques",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q12Ports puniques",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q13Ports puniques",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q14Ports puniques",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q15Ports puniques",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q16Ports puniques",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q17Ports puniques",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q18Ports puniques",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q19Ports puniques",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q20Ports puniques",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q21Ports puniques",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q22Ports puniques",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q23Ports puniques",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q24Ports puniques",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q25Ports puniques",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q26Ports puniques",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q27Ports puniques",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q28Ports puniques",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q29Ports puniques",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q30Ports puniques",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q31Ports puniques",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q32Ports puniques",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q33Ports puniques",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q34Ports puniques",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q35Ports puniques",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q36Ports puniques",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q37Ports puniques",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q38Ports puniques",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q39Ports puniques",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q40Ports puniques",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q41Ports puniques",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q42Ports puniques",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q43Ports puniques",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q44Ports puniques",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q45Ports puniques",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q46Ports puniques",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q47Ports puniques",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q48Ports puniques",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q49Ports puniques",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q50Ports puniques",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q1Musée Océanographique de Carthage",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q2Musée Océanographique de Carthage",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q3Musée Océanographique de Carthage",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q4Musée Océanographique de Carthage",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q5Musée Océanographique de Carthage",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q6Musée Océanographique de Carthage",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q7Musée Océanographique de Carthage",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q8Musée Océanographique de Carthage",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q9Musée Océanographique de Carthage",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q10Musée Océanographique de Carthage",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q11Musée Océanographique de Carthage",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q12Musée Océanographique de Carthage",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q13Musée Océanographique de Carthage",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q14Musée Océanographique de Carthage",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q15Musée Océanographique de Carthage",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q16Musée Océanographique de Carthage",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q17Musée Océanographique de Carthage",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q18Musée Océanographique de Carthage",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q19Musée Océanographique de Carthage",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q20Musée Océanographique de Carthage",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q19Musée Océanographique de Carthage",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q20Musée Océanographique de Carthage",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q21Musée Océanographique de Carthage",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q22Musée Océanographique de Carthage",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q23Musée Océanographique de Carthage",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q24Musée Océanographique de Carthage",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q25Musée Océanographique de Carthage",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q26Musée Océanographique de Carthage",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q27Musée Océanographique de Carthage",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q28Musée Océanographique de Carthage",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q29Musée Océanographique de Carthage",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q30Musée Océanographique de Carthage",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q31Musée Océanographique de Carthage",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q32Musée Océanographique de Carthage",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q33Musée Océanographique de Carthage",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q34Musée Océanographique de Carthage",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q35Musée Océanographique de Carthage",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q36Musée Océanographique de Carthage",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q37Musée Océanographique de Carthage",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q38Musée Océanographique de Carthage",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q39Musée Océanographique de Carthage",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q40Musée Océanographique de Carthage",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q41Musée Océanographique de Carthage",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q42Musée Océanographique de Carthage",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q43Musée Océanographique de Carthage",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q44Musée Océanographique de Carthage",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q45Musée Océanographique de Carthage",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q46Musée Océanographique de Carthage",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q47Musée Océanographique de Carthage",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q48Musée Océanographique de Carthage",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q49Musée Océanographique de Carthage",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q50Musée Océanographique de Carthage",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q1Le Tophet",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q2Le Tophet",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q3Le Tophet",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q4Le Tophet",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q5Le Tophet",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q6Le Tophet",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q7Le Tophet",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q8Le Tophet",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q9Le Tophet",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q10Le Tophet",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q11Le Tophet",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q12Le Tophet",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q13Le Tophet",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q14Le Tophet",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q15Le Tophet",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q16Le Tophet",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q17Le Tophet",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q18Le Tophet",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q19Le Tophet",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q20Le Tophet",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q21Le Tophet",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q22Le Tophet",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q23Le Tophet",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q24Le Tophet",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q25Le Tophet",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q26Le Tophet",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q27Le Tophet",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q28Le Tophet",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q29Le Tophet",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q30Le Tophet",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q31Le Tophet",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q32Le Tophet",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q33Le Tophet",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q34Le Tophet",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q35Le Tophet",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q36Le Tophet",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q37Le Tophet",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q38Le Tophet",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q39Le Tophet",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q40Le Tophet",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q41Le Tophet",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q42Le Tophet",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q43Le Tophet",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q44Le Tophet",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q45Le Tophet",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q46Le Tophet",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q47Le Tophet",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q48Le Tophet",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q49Le Tophet",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q50Le Tophet",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q1Beit El Hikma",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q2Beit El Hikma",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q3Beit El Hikma",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q4Beit El Hikma",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q5Beit El Hikma",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q6Beit El Hikma",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q7Beit El Hikma",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q8Beit El Hikma",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q9Beit El Hikma",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q10Beit El Hikma",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q11Beit El Hikma",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q12Beit El Hikma",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q13Beit El Hikma",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q14Beit El Hikma",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q15Beit El Hikma",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q16Beit El Hikma",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q17Beit El Hikma",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q18Beit El Hikma",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q19Beit El Hikma",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q20Beit El Hikma",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q21Beit El Hikma",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q22Beit El Hikma",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q23Beit El Hikma",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q24Beit El Hikma",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q25Beit El Hikma",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q26Beit El Hikma",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q27Beit El Hikma",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q28Beit El Hikma",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q29Beit El Hikma",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q30Beit El Hikma",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q31Beit El Hikma",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q32Beit El Hikma",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q33Beit El Hikma",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q34Beit El Hikma",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q35Beit El Hikma",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q36Beit El Hikma",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q37Beit El Hikma",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q38Beit El Hikma",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q39Beit El Hikma",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q40Beit El Hikma",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q41Beit El Hikma",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q42Beit El Hikma",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q43Beit El Hikma",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q44Beit El Hikma",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q45Beit El Hikma",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q46Beit El Hikma",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q47Beit El Hikma",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q48Beit El Hikma",
+          "patterns": [],
+          "responses": [],
+          "context": [""]
+        },
+        {
+          "tag": "Q49Beit El Hikma",
+          "patterns": [""],
+          "responses": [""],
+          "context": [""]
+        },
+        {
+          "tag": "Q50Beit El Hikma",
+          "patterns": [""],
+          "responses": [""],
+          "context": [""]
+        }
+]
+  }
