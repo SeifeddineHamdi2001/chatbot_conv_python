@@ -91,9 +91,12 @@ app = FastAPI()
 
 class Message(BaseModel):
     text: str
+from flask import Flask
 
-@app.post('/chatbot')
-def chatbot_response(message: Message):
+app = Flask(__name__)
+
+@app.route("/chatbot")
+def invoke_function():
     # Here, you would process the user's message and generate a response using your chatbot logic
     answer = response(message.text)
     
@@ -101,6 +104,5 @@ def chatbot_response(message: Message):
     return {'response': answer}
 
 if __name__ == "__main__":
-    import uvicorn
+    app.run()
 
-    uvicorn.run(app, host="localhost", port=8000)
